@@ -14,3 +14,14 @@ Aplikasi desktop **Katalog Produk** berbasis **JavaFX**, **Maven**, dan **SQLite
 3. Jalankan perintah Maven:
    ```bash
    mvn javafx:run
+
+## Screenshot Aplikasi
+
+### 1. Tambah Produk
+![Tambah Produk](docs/docstambah-produk.jpg)
+
+### 2. Pilih & Edit Produk
+![Pilih dan Edit Produk](docs/docsedit-produk.jpg)
+
+### 3. Hapus Produk & Pembaruan Katalog
+![Hapus Produk dan Pembaruan Katalog](docs/docshapus-produk.jpg)
